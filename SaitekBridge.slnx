@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SaitekBridge/SaitekBridge.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/PanelTest/PanelTest.csproj" />
+  </Folder>
+</Solution>
