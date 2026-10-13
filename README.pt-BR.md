@@ -1,4 +1,4 @@
-# SaitekBridge
+# SaitekBridge for MSFS 2024
 
 [English](README.md) · **Português** · [Español](README.es.md)
 
